@@ -267,6 +267,6 @@ Now we have the code lint installed on the project babies!! To help you to forma
 
 `yarn eslint --fix src --ext .js`
 
-![That's all Folks](./assets/finalMessage.jpg)
+![That's all Folks](../../../assets/finalMessage.jpg)
 
 Help us to do this tutorial better! Open a PR <3
