@@ -4,4 +4,4 @@
 
 ### Javascript
 
-[React](/guides/javascript/ReactJs-ReactNative/README.md)
+[React](./guides/javascript/ReactJs-ReactNative/README.md)
