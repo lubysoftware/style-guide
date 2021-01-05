@@ -1,4 +1,4 @@
-# ReactJS Code and Commit Lint Configurations
+# ReactJS/ React Native Code and Commit Lint Configurations
 
 ## Intro
 
