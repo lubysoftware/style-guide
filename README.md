@@ -4,4 +4,4 @@
 
 ### Javascript
 
-[React](./guides/javascript/ReactJs-ReactNative/README.md)
+[ReactJS and React Native](https://github.com/lubysoftware/style-guide/tree/master/guides/javascript/ReactJS-ReactNative)
